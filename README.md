@@ -15,9 +15,10 @@ This project is an interactive and insightful Excel-based dashboard designed to 
 
 ## How to Use
 1. Clone this repository to your local machine.
-2. Open the `Pizza Sales Dashboard.xlsx` file in Microsoft Excel.
-3. Use the built-in filters and charts to explore the sales data.
-4. Modify the data as needed or replace it with your own sales data for analysis.
+2. Open the `pizza dataset.xlsx` file in Microsoft Excel.
+3. create pivot table
+4. Use the built-in filters and charts to explore the sales data. (pivot chart)
+5. Modify the data as needed or replace it with your own sales data for analysis.
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/3d40eca9-71ee-4eb0-8558-79d0f252d03b)
