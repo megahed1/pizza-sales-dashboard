@@ -20,7 +20,8 @@ This project is an interactive and insightful Excel-based dashboard designed to 
 4. Modify the data as needed or replace it with your own sales data for analysis.
 
 ## Screenshots
-Here you can add images or screenshots of the dashboard.
+![image](https://github.com/user-attachments/assets/3d40eca9-71ee-4eb0-8558-79d0f252d03b)
+
 
 ## Questions or Feedback
 If you have any questions or feedback, feel free to open an issue or contact me directly.
