@@ -15,7 +15,7 @@ This project is an interactive and insightful Excel-based dashboard designed to 
 
 ## How to Use
 1. Clone this repository to your local machine.
-2. Open the `pizza dataset.xlsxgithub.com/megahed1/pizza-sales-dashboard/blob/main/pizza%20dataset.xlsx` ot table
+2. Open the `pizza dataset.xlsx` ot table
 4. Use the built-in filters and charts to explore the sales data. (pivot chart)
 5. Modify the data as needed or replace it with your own sales data for analysis.
 
